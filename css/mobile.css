@@ -1,0 +1,19 @@
+@media (min-width: 360px) and (max-width: 767px){
+	body {
+		background: url(../images/bg-pattern-bottom-mobile.svg), 
+					url(../images/bg-pattern-top-mobile.svg);
+	}
+
+	header, section {
+		width: 90%;
+		margin: 50px auto;
+	}
+
+	div.caixa {
+		padding: 10px 0px;
+	}
+
+	div.caixa p {
+		font-size: 0.9em;
+	}
+}

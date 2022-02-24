@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&display=swap');
+
+body {
+	font-family: "Trebuchet MS", sans-serif;
+	text-align: center;
+	color: white;
+}
+
+header h1{
+	color: hsl(300, 43%, 22%);
+}
+
+header p {
+	color: hsl(303, 10%, 53%);
+	font-size: 1.2em;
+}
+
+div#avaliacao article {
+	background: hsl(300, 24%, 96%);
+	margin-bottom: 20px;
+	border-radius: 10px;
+	font-size: 1.2em;
+}
+
+div#avaliacao article i {
+	color: orange;
+}
+
+div#avaliacao article p {
+	color: hsl(300, 43%, 22%);
+	margin-top: 10px;
+}
+
+section#testimonials article {
+	margin-top: 20px;
+	border-radius: 10px;
+	padding: 30px;
+	text-align: left;
+	background: hsl(300, 43%, 22%);
+}
+
+section#testimonials img {
+	border-radius: 200px;
+	width: 50px;
+	float: left;
+}
+
+section#testimonials span {
+	font-size: 0.9em;
+	opacity: 0.7;
+	color: hsl(333, 80%, 67%);
+}
+
+div.personal p {
+	float: left;
+	margin-left: 20px;
+}
+
+div.texto {
+	clear: both;
+}
